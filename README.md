@@ -1,6 +1,3 @@
-<img src="https://github.com/EIkhan/EIkhan/blob/main/ibrahim2-01.png"/>
- <hr></hr>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EIkhan&label=Views&color=blue&style=plastic" alt="EIkhan" /> </p>
 
 <a href="https://twitter.com/eikdroid">
@@ -16,6 +13,9 @@ I’m currently learning something new everyday.
  🥅 2021 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 <br />
 <br />
+
+<img src="https://github.com/EIkhan/EIkhan/blob/main/ibrahim2-01.png"/>
+ <hr></hr>
 
 ![EIKhan github stats](https://github-readme-stats.vercel.app/api?username=EIKhan)
 

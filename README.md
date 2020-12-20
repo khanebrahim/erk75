@@ -1,4 +1,4 @@
-<img src="https://github.com/EIkhan/EIkhan/blob/main/ibrahim2-01.png">
+<img src="https://github.com/EIkhan/EIkhan/blob/main/ibrahim2-01.png"  width="200" height="400"/>
  <hr></hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EIkhan&label=Views&color=blue&style=plastic" alt="EIkhan" /> </p>

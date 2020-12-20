@@ -1,5 +1,13 @@
-### Hi there 👋
-Hi, I'm https://www.linkedin.com/in/ebrahim-khan-199b0919b , a passionate self-taught Full Stack Web Developer and ML enginner 🚀 from Bangladesh.
+### Hi there It's Ebrahim Iqbal Khan👋
+
+<a href="https://twitter.com/eikdroid>
+  <img align="left" alt="Sirajul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ebrahim-khan-199b0919b">
+  <img align="left" alt="Sirajul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+                                                                                                                               
+Hi, I'm  , a passionate self-taught Full Stack Web Developer and ML enginner 🚀 from Bangladesh.
 I’m currently researching and experimenting on ML.
 I’m currently learning something new everyday.
  🥅 2021 Goals: Participate in more Hackathons and contribute more to Open Source projects.

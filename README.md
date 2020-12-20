@@ -1,12 +1,14 @@
 ### Hi there It's Ebrahim  Khan👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EIkhan&label=Views&color=blue&style=plastic" alt="EIkhan" /> </p>
+
 <a href="https://twitter.com/eikdroid">
   <img align="left" alt="EIKhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ebrahim-khan-199b0919b">
   <img align="left" alt="Sirajul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-  <br />                                                                                                                             
+<br />                                                                                                                             
 Hi, I'm  , a passionate self-taught Full Stack Web Developer and ML enginner 🚀 from Bangladesh.
 I’m currently researching and experimenting on ML.
 I’m currently learning something new everyday.

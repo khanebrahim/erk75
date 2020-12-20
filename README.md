@@ -8,6 +8,10 @@ I’m currently learning something new everyday.
 
 ![EIKhan github stats](https://github-readme-stats.vercel.app/api?username=EIKhan)
 
+<a href="https:https://github.com/EIkhan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
+</a>
+
 <br />
 <br />
 

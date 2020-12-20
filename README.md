@@ -1,6 +1,6 @@
 ### Hi there It's Ebrahim  Khan👋
 
-<a href="https://www.twitter.com/eikdroid>
+<a href="https://twitter.com/eikdroid">
   <img align="left" alt="EIKhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ebrahim-khan-199b0919b">

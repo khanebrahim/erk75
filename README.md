@@ -14,7 +14,7 @@ I’m currently learning something new everyday.
 <br />
 <br />
 
-<img src="https://github.com/EIkhan/EIkhan/blob/main/ibrahim2-01.png"/>
+<img src="https://github.com/EIkhan/EIkhan/blob/main/Ebrahim.jpg"/>
  <hr></hr>
 
 ![EIKhan github stats](https://github-readme-stats.vercel.app/api?username=EIKhan)

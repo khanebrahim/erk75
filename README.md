@@ -16,11 +16,13 @@ I’m currently learning something new everyday.
 
 <img src="https://github.com/EIkhan/EIkhan/blob/main/Ebrahim.jpg"/>
  <hr></hr>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EIkhan" alt="EIkhan" /></a> </p>
+
 
 ![EIKhan github stats](https://github-readme-stats.vercel.app/api?username=EIKhan)
 
 <a href="https:https://github.com/EIkhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
 </a>
 
 <br />

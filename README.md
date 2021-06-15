@@ -18,11 +18,19 @@ I’m currently learning something new everyday.
  <hr></hr>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EIkhan" alt="EIkhan" /></a> </p>
 
-
-![EIKhan github stats](https://github-readme-stats.vercel.app/api?username=EIKhan)
+<div align="center">
+  
+### My Contribution Stats
+<div align="center">
+<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EIkhan&theme=default" width="45%" alt="EIKhan's github stats"/>
+</a>
+<a href="https://github.com/EIkhan">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=EIkhan&show_icons=true&theme=default&line_height=24" width="45%" alt="EIKhan's github stats"/>
+</a>
+<div align="left">
 
 <a href="https:https://github.com/EIkhan">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
 </a>
 
 <br />

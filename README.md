@@ -7,8 +7,7 @@
   <img align="left" alt="Sirajul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />                                                                                                                             
-Hi, I'm  , a passionate self-taught Full Stack Web Developer and ML enginner 🚀 from Bangladesh.
-I’m currently researching and experimenting on ML.
+Hi, I'm  , a passionate self-taught Full Stack Web Developer🚀 from Bangladesh.
 I’m currently learning something new everyday.
  🥅 2021 Goals: Participate in more Hackathons and contribute more to Open Source projects.
 <br />

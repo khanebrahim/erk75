@@ -13,7 +13,7 @@ I’m currently learning something new everyday.
 <br />
 <br />
 
-<img src="https://github.com/EIkhan/EIkhan/blob/main/Ebrahim.jpg"/>
+<img src="https://github.com/EIkhan/EIkhan/blob/main/ebrahimkhan.jpg"/>
  <hr></hr>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EIkhan" alt="EIkhan" /></a> </p>
 

@@ -34,6 +34,9 @@ I’m currently learning something new everyday.
 
 <br />
 <br />
+  
+  
+  ![Ebrahim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EIkhan)
 
 
 **Languages and Tools:**  

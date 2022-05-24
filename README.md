@@ -3,8 +3,8 @@
 <a href="https://twitter.com/erkhan75">
   <img align="left" alt="EIKhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="erk75">
-  <img align="left" alt="Sirajul's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/erk75/">
+  <img align="left" alt="Ebrahim Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />                                                                                                                             
 Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’m currently learning something new every day. 🥅 2022 Goals: Participate in more Hackathons and contribute more to Open Source projects

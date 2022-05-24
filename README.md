@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EIkhan&label=Views&color=blue&style=plastic" alt="EIkhan" /> </p>
 
-<a href="https://twitter.com/eikdroid">
+<a href="https://twitter.com/erkhan75">
   <img align="left" alt="EIKhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="erk75">

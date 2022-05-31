@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EIkhan&label=Views&color=blue&style=plastic" alt="EIkhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erk75&label=Views&color=blue&style=plastic" alt="erk75" /> </p>
 
 <a href="https://twitter.com/erkhan75">
   <img align="left" alt="EIKhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,30 +11,30 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 <br />
 <br />
 
-<img src="https://github.com/EIkhan/EIkhan/blob/main/ebrahimkhan.jpg"/>
+<img src="https://github.com/erk75/erk75/blob/main/ebrahimkhan.jpg"/>
  <hr></hr>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EIkhan" alt="EIkhan" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erk75" alt="erk75" /></a> </p>
 
 <div align="center">
   
 ### My Contribution Stats
 <div align="center">
-<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EIkhan&theme=default" width="45%" alt="EIKhan's github stats"/>
+<img algin="left" src="https://github-readme-streak-stats.herokuapp.com/?user=erk75&theme=default" width="45%" alt="erk75's github stats"/>
 </a>
-<a href="https://github.com/EIkhan">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=EIkhan&show_icons=true&theme=default&line_height=24" width="45%" alt="EIKhan's github stats"/>
+<a href="https://github.com/erk75">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=erk75&show_icons=true&theme=default&line_height=24" width="45%" alt="erk75's github stats"/>
 </a>
 <div align="left">
 
-<a href="https:https://github.com/EIkhan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIKhan&theme=dark&hide_langs_below=1" />
+<a href="https:https://github.com/erk75">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erk75&theme=dark&hide_langs_below=1" />
 </a>
 
 <br />
 <br />
   
   
-  ![Ebrahim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EIkhan)
+  ![Ebrahim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@erk75)
 
 
 **Languages and Tools:**  

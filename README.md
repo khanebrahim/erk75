@@ -29,6 +29,9 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 <a href="https:https://github.com/erk75">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erk75&theme=dark&hide_langs_below=1" />
 </a>
+  
+  <a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=TheSpeedX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br />
 <br />

@@ -26,6 +26,10 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 </a>
 <div align="left">
 
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpeedX&langs_count=8&theme=react" />
+</p>
 
 <br />
 <br />

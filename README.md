@@ -26,15 +26,6 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 </a>
 <div align="left">
 
-<a href="https:https://github.com/erk75">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erk75&theme=dark&hide_langs_below=1" />
-</a>
-  ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
-<h2 align="center">🏆 Github Trophies</h2>
-<img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=TheSpeedX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
-  width="100%" />
-<br />
 
 <br />
 <br />
@@ -61,11 +52,7 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-  <a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=TheSpeedX&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
-    alt="thespeedx" /></p>
+ 
 
 <br />
 

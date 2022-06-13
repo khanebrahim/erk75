@@ -29,9 +29,12 @@ Hi, I'm, a passionate self-taught Full Stack Web Developer from Bangladesh. I’
 <a href="https:https://github.com/erk75">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erk75&theme=dark&hide_langs_below=1" />
 </a>
-  
-  <a href="https://github.com/TheSpeedX"><img alt="TheSpeedX's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=TheSpeedX&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/TheSpeedX?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/TheSpeedX?tab=followers"><img align="right" src="https://img.shields.io/github/followers/TheSpeedX?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/TheSpeedX">  <img align="right" src="https://komarev.com/ghpvc/?username=TheSpeedX"></a>
+<h2 align="center">🏆 Github Trophies</h2>
+<img align="center"
+  src="https://github-profile-trophy.vercel.app/?username=TheSpeedX&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  width="100%" />
+<br />
 
 <br />
 <br />
